@@ -1,0 +1,5 @@
+network,name,cidr
+NET-1,Office LAN,192.168.1.0/24
+NET-2,Lab LAN,192.168.1.128/25
+NET-3,Guest Wi-Fi,10.0.0.0/24
+NET-4,Branch,192.168.2.0/24
